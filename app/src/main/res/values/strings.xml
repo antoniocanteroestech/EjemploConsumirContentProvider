@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Content Providers</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="consultar">Cons</string>
+    <string name="insertar">Ins</string>
+    <string name="eliminar">Elim</string>
+    <string name="limpiar">Clean</string>
+    <string name="contactos">Contactos</string>
+
+</resources>
